@@ -18,7 +18,7 @@ function readWriteAsync() {
   **[visit the website](https://euphonious-meerkat-72321b.netlify.app)** 
 
 
-  ![alt text](https://path/to/screenshot.png)
+  ![screenshot.png](https://github.com/saiicodes/screenshot-pipeline/blob/main/screenshot.png)
   `;
 
   // Update README using FS
