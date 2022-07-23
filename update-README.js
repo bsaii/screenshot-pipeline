@@ -10,7 +10,7 @@ function readWriteAsync() {
   2. Run \`npm install\`
   3. Run \`npm test\`
 
-  __NOTE: The react app for the project is in the\`client\` directory__
+  __NOTE: The react app for the project is in the\`client\` directory. It has its own git repository and can be managed using \`git submodule <options>\`__
 
   ## Project information
 
